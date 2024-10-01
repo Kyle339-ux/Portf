@@ -1,0 +1,12 @@
+
+
+[ email:kylesegal1@gmail.com
+ subject:Test
+ message:will this send ]
+[email:kylesegal1@gmail.com
+ subject:Test
+ message:please work]
+
+[email:segalkyle5@gmail.com
+ subject:Test
+ message:work asseblief]
